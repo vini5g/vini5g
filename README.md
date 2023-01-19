@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+I'm+Vinícius+Augusto;Be+welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Vinícius+Augusto;Be+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
