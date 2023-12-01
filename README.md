@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">We are all students and teachers. I often ask myself, "What did I come here to learn, and what did I come to teach?"</p>
+<p align="center">We are all students and teachers. I always ask myself, "What did I come here to learn, and what did I come to teach?"</p>
 
 ---
 
